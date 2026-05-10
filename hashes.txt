@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bhaago
+
+This log tracks the cryptographic history and versioning for the song **Bhaago** (bhaago).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T08:50:13.079139 | `v1` | `d08c6bf24afe4a78c12de47f5d74b73adce603bcf59c84fc2523476397bd48f1` | `ce15c01973494771c7ddc015ca5d2ad4618f1a1c1c024bdff99c23e155011a18` | `2026-05-10_bhaago-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
