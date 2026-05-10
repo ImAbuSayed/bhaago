@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bhaago/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Bhaago](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bhaago/) |
+| **Get License** | [Get a Licensing Quote for Bhaago](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bhaago/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> রাতের এই নীরবতায় তোমায় আরো কাছে চাই.. কাছে আয়..
+> তোমার ওই নেশার চোখে আমি যে আজ ডুবতে চাই
+> উষ্ণ এই নিঃশ্বাসেতে কাঁপছে আমার সারা গায়.. সারা গায়..
+> তোমার ওই ছোঁয়া পেলে এই মন যে পাগল প্রায়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
